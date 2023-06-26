@@ -1,16 +1,5 @@
-# flutterstack
+# BottomSheetScaffold
 
-A new Flutter project.
+> A simple straightforward BottomSheetScaffold.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://ibb.co/LPRFCvD"><img src="https://i.ibb.co/LPRFCvD/Screenshot-2022-10-11-10-48-45-20-5f6259bdc120b860a0a4a25f6c3610c4.jpg" alt="Screenshot-2022-10-11-10-48-45-20-5f6259bdc120b860a0a4a25f6c3610c4" border="0"></a>
